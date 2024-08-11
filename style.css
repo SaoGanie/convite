@@ -58,6 +58,7 @@ a {
   
 }
 
-fundo{
-  
-}
+html, body {
+    height: 100%; /* Garante que o body ocupe 100% da altura da janela */
+    margin: 0; /* Remove margens padrão */
+    padding: 0; /* Remove padding padrão */
