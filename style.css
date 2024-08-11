@@ -1,0 +1,62 @@
+body{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+  font-size:40px;
+  grid-column: 2;
+  background-image:url("https://torange.biz/photo/35/HD/leaves-frames-text-photo-background-blank-35237.jpg");
+    background-size: cover;
+  background-position: center;
+  color:white;
+  
+}
+
+p {
+  grid-column: 2;
+  text-align:center;
+}
+
+#icons {
+  grid-column: 2;
+  display:flex;
+ justify-content: center;
+            align-items: center;
+  font-size:20px;
+  
+}
+  
+
+img {
+  height:40px;
+  
+  
+}
+
+
+  .great-vibes-regular {
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#nomes{
+  font-size: 60px;
+}
+
+#frase{
+  font-size:30px;
+}
+
+a {
+  padding:60px;
+  text-align:center;
+  color:white;
+  text-decoration:none;
+  
+}
+
+fundo{
+  
+}
